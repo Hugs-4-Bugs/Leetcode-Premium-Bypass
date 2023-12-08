@@ -4,7 +4,7 @@ Unlock Leetcode's premium features without a subscription using the Leetcode Pre
 
 
 ## Video Tutorial
-Watch the installation guide on [YouTube]
+Watch the installation guide on [YouTube] ( https://www.youtube.com/watch?v=f8obba4_Z2I )
 
 ## Table of Contents
 - [Installation](#installation)
