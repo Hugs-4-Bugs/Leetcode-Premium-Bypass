@@ -53,4 +53,4 @@ Watch the installation guide on [YouTube]
 
 ![Extension in Action](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/e4d41e19-af43-4c3c-9476-256a5ab7e159)
 ### Troubleshooting
-**If it's not working, feel free to write on [Issues]([https://github.com/31b4/Leetcode-Premium-Bypass/issues](https://github.com/Hugs-4-Bugs)https://github.com/Hugs-4-Bugs); I'm here to help.**
+**If it's not working, feel free to write on [Issues]([https://github.com/31b4/Leetcode-Premium-Bypass/issues](https://github.com/Hugs-4-Bugs)https://github.com/Hugs-4-Bugs/Issues); I'm here to help.**
